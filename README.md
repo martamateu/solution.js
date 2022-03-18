@@ -1,5 +1,3 @@
-# solution.js!
-
 ## Project ⚙️
 
 Solution example with Vanilla.js for a script injection exercise. 
@@ -12,7 +10,7 @@ The code manipulates the following blogpost page ( https://www.trakken.de/insigh
 
 ✅ Added the original card's hover to improve page navigability.
 
-- 
+
 
 ### Demo 🔩
 
