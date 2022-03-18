@@ -16,4 +16,4 @@ The code manipulates the following blogpost page ( https://www.trakken.de/insigh
 
 ### Demo 🔩
 
-[Recording 2022-03-18 at 18 43 36](https://user-images.githubusercontent.com/51968093/159055631-17a3ce9f-270f-4fa1-84c1-10d30286bd73.gif)
+![Recording 2022-03-18 at 18 43 36](https://user-images.githubusercontent.com/51968093/159055631-17a3ce9f-270f-4fa1-84c1-10d30286bd73.gif)
