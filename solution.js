@@ -1,4 +1,4 @@
-// code in order to make titles //
+// Loop to overwrite titles and assign two digit consecutive numbers with Javascript operators //
 var p = document.querySelectorAll('.h3 span');
 for (let i = 0; i < p.length; i++) {
 
@@ -7,7 +7,7 @@ for (let i = 0; i < p.length; i++) {
 }
 
 
-// Code to change the background color for odds and pairs // 
+// Iteration for change the background color for odds and pairs  // 
 
 var box = document.querySelectorAll('.insights-content .post-wrapper');
 
@@ -22,7 +22,7 @@ for (let i = 0; i < box.length; i++) {
     }
 }
 
-// Code to change according if it's hover or not// 
+// Loop to check if it's hover or not// 
 
 for (let i = 0; i < box.length; i++) {
     box[i].onmouseover = function (e) {
